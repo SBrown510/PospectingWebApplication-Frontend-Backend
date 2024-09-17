@@ -1,5 +1,4 @@
 ﻿using DraftProspectsFrontEnd.DataTypes;
-using System.Diagnostics;
 
 public class ApiService
 {
@@ -19,7 +18,12 @@ public class ApiService
 
     public async Task<IEnumerable<WeatherForecast>> GetWeatherForecast()
     {
-        
+
         return await _httpClient.GetFromJsonAsync<IEnumerable<WeatherForecast>>("WeatherForecast");
+    }
+
+    public async Task<List<NCAAHockeyStats>> GetNCAAPPGAvg()
+    {
+        return await _httpClient.GetFromJsonAsync<List<NCAAHockeyStats>>("NCAA");
     }
 }
