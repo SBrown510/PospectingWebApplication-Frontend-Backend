@@ -1,6 +1,45 @@
-# PospectingWebApplication(Frontend+Backend)
- This is my frontend backend code for my hockey prospecting site.
- I have three models integrated into each other trained on hockey career data from the 60's to today to create predictions on todays prospects.
+# 🏒 Prospecting Web Application (Frontend + Backend)  
+
+## 📌 Overview  
+This is a **full-stack web application** designed to track, analyze, and predict **hockey prospect career trajectories** using **machine learning**.  
+
+🔹 **Integrated AI Models:** Predicts player development, league transitions, and scoring production based on **historical data from the 1960s to today**.  
+🔹 **Advanced Analytics:** Provides deep insights into player comparisons, draft simulations, and scouting trends.  
+🔹 **Community-Driven:** Allows users to contribute scouting reports, discuss prospects, and engage in fantasy leagues.  
+
+---
+
+## 🏗️ Tech Stack  
+- **Frontend:** TBD - Currently Razor but plan on changing
+- **Backend:** ASP.NET Core, SQL
+- **Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy  
+- **Cloud & DevOps:** TBD
+
+---
+
+## 🔮 Key Features (In Progress)  
+
+### 📊 **Prospect Development Tracker**  
+✔ Tracks **player progress** with stats, performance reviews, and video highlights.  
+✔ Uses **ML-driven growth projection** to forecast future player performance.  
+
+### 🏆 **Interactive Draft Simulator**  
+✔ Simulate draft scenarios and make team picks.  
+✔ Uses **advanced analytics** to provide feedback & suggest trades.  
+
+### ⚖ **Player Comparison Tool**  
+✔ Compare prospects side-by-side with **radar charts, heat maps, and career trajectory graphs**.  
+✔ Includes **historical comparisons** to current NHL players.  
+
+### 📰 **Prospect News Aggregator**  
+✔ Aggregates **news articles, social media posts, and scouting discussions** in one place.  
+✔ Uses **Natural Language Processing (NLP)** to summarize key insights.  
+
+### 📈 **Advanced Analytics Dashboard**  
+✔ Provides **deep statistical insights** (Corsi, Fenwick, expected goals, etc.).  
+✔ Users can create **custom dashboards** to track specific players or teams.  
+
+---
 
 Heres a list of features I plan on including:
 
