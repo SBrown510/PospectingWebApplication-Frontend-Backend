@@ -1,5 +1,6 @@
 # PospectingWebApplication(Frontend+Backend)
- This is my frontend backend code for my hockey prospecting site
+ This is my frontend backend code for my hockey prospecting site.
+ I have three models integrated into each other trained on hockey career data from the 60's to today to create predictions on todays prospects.
 
 Heres a list of features I plan on including:
 
