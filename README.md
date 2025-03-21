@@ -41,4 +41,3 @@ Heres a list of features I plan on including:
 
 10. **Mobile App Integration**:
     - Develop a companion mobile app with push notifications for prospect updates, draft alerts, and community interactions.
-    - Include features like augmented reality (AR) to provide an immersive experience when viewing player stats or highlights.
