@@ -41,8 +41,7 @@ This is a **full-stack web application** designed to track, analyze, and predict
 
 ---
 
-Heres a list of features I plan on including:
-
+RAW FEATURE LIST:
 1. **Prospect Development Tracker**:
    - Create a system that tracks the development of prospects over time, including stats, performance reviews, and video highlights.
    - Include a "Growth Projection" feature that uses machine learning to predict future performance based on current trends and historical data.
